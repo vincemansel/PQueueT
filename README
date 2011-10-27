@@ -1,0 +1,3 @@
+A C++ Templatized Priority Queue Class built on binary heap.
+
+The client is required to supply a comparison function for non-primative types.
